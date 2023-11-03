@@ -12,7 +12,7 @@ Atualmente estou estudando Aplicações de banco de dados e desenvolvimento fron
     <img height="145" align="center" src="https://streak-stats.demolab.com?user=feitosajr1&dates=ffffff&theme=react&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="Github streak" />
   </a>
   <a href="https://github.com/feitosajr1">
-    <img height=145 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feitosajr1&layout=compact&size_weight=0.5&count_weight=0.5&theme=react&hide_border=true&show_icons" />
+    <img height=145 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feitosajr1&layout=compact&size_weight=0.5&theme=react&hide_border=true&show_icons&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
