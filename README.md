@@ -3,7 +3,7 @@
 ### 📌 Sobre mim
 
 Sou um apaixonado por tecnologia que a algum tempo decidiu se dedicar inteiramente a evoluir nesse relacionamento e encarar a transição de carreira.<br>
-Atualmente estou estudando Aplicações de banco de dados e desenvolvimento front-end no segundo período do curso de Ciências da Computação e aprofundando meus conhecimentos em Java e OOP
+Atualmente estou estudando orientação a objetos com JAVA e desenvolvimento cloud no quarto período do curso de Ciências da Computação. 
 
 ### 📈 GitHub status
 
