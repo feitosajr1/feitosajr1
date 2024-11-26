@@ -3,7 +3,7 @@
 ### 📌 Sobre mim
 
 Sou um apaixonado por tecnologia que a algum tempo decidiu se dedicar inteiramente a evoluir nesse relacionamento e encarar a transição de carreira.<br>
-Atualmente estou estudando orientação a objetos com JAVA e desenvolvimento cloud no quarto período do curso de Ciências da Computação. 
+Atualmente trabalho como Analista de suporte técnico em uma empressa de telecomincações e estou estudando programação orientada a objetos com JAVA e desenvolvimento cloud no quarto período do curso de Ciências da Computação. 
 <div>
 <a href="https://feitosajr1.github.io/discoverRocketseetProject/" target="_blank">
 Veja mais aqui.
